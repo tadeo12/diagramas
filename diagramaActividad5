@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T19:23:53.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MxZXnQ7I2LaHgUdfdm03" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T20:44:05.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ZaqB789MOJLavB6gWGFL" version="13.8.0" type="github">
   <diagram id="7dAxVD90WWLkre3FdyxG" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="MTifarD_Cao3WNPL3JXk-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MTifarD_Cao3WNPL3JXk-18" source="MTifarD_Cao3WNPL3JXk-114" target="MTifarD_Cao3WNPL3JXk-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTifarD_Cao3WNPL3JXk-114" value="Responde&lt;br&gt;preguntas" style="rounded=1;whiteSpace=wrap;html=1;align=center;glass=0;sketch=0;fillColor=#CCCCFF;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-18">
+        <mxCell id="MTifarD_Cao3WNPL3JXk-114" value="Responder&lt;br&gt;preguntas" style="rounded=1;whiteSpace=wrap;html=1;align=center;glass=0;sketch=0;fillColor=#CCCCFF;arcSize=31;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-18">
           <mxGeometry x="561" y="50" width="59" height="32" as="geometry" />
         </mxCell>
         <mxCell id="MTifarD_Cao3WNPL3JXk-85" value="Explicar tema del día" style="rounded=1;whiteSpace=wrap;html=1;align=center;glass=0;sketch=0;fillColor=#CCCCFF;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-18">
@@ -137,7 +137,7 @@
         <mxCell id="MTifarD_Cao3WNPL3JXk-117" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;glass=0;sketch=0;fillColor=#CCCCFF;gradientColor=none;align=left;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-18">
           <mxGeometry x="521" y="105" width="29" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MTifarD_Cao3WNPL3JXk-77" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;sketch=0;align=left;strokeWidth=2;labelBorderColor=none;fillColor=#33001A;strokeColor=#FFFFFF;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-18">
+        <mxCell id="MTifarD_Cao3WNPL3JXk-77" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;sketch=0;align=left;strokeWidth=2;labelBorderColor=none;strokeColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-18">
           <mxGeometry x="521" y="180" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MTifarD_Cao3WNPL3JXk-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MTifarD_Cao3WNPL3JXk-78" target="MTifarD_Cao3WNPL3JXk-84">
