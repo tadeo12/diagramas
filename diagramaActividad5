@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T19:02:55.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="xXLuBh3xJPf1D7eZX5Hz" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T19:23:53.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MxZXnQ7I2LaHgUdfdm03" version="13.8.0" type="github">
   <diagram id="7dAxVD90WWLkre3FdyxG" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
             <mxPoint x="621" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MTifarD_Cao3WNPL3JXk-18" value="Profesor" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-15">
+        <mxCell id="MTifarD_Cao3WNPL3JXk-18" value="Profesor" style="swimlane;html=1;startSize=30;horizontal=0;rounded=0;" vertex="1" parent="MTifarD_Cao3WNPL3JXk-15">
           <mxGeometry x="30" y="240" width="710" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MTifarD_Cao3WNPL3JXk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.3;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="MTifarD_Cao3WNPL3JXk-18" source="MTifarD_Cao3WNPL3JXk-85" target="MTifarD_Cao3WNPL3JXk-87">
