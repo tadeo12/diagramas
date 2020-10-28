@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T16:42:00.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="s-QNO4n02hN1K-Egn3gX" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T16:56:28.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="iBooMEo5Ooo3ZnUlHz5F" version="13.8.5" type="github">
   <diagram id="6x8Ylcrl8acykNSXKWz4" name="Page-1">
-    <mxGraphModel dx="1227" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-6" value="Comision de cursada" style="swimlane;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-6" value="Comision de cursada" style="swimlane;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="110" y="20" width="690" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-9" value="Habilitada" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-6">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-9" value="Habilitada" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-6" vertex="1">
           <mxGeometry x="90" y="50" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-13" value="recibir inscripción[cupo&amp;gt;=inscrptos+1]&lt;br&gt;/registrar nuevo inscripto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-9">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-13" value="recibir inscripción[cupo&amp;gt;=inscrptos+1]&lt;br&gt;/registrar nuevo inscripto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Pa-P2Wp15x4nhS5DZ722-9" vertex="1">
           <mxGeometry y="30" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-1" target="Pa-P2Wp15x4nhS5DZ722-9">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-1" target="Pa-P2Wp15x4nhS5DZ722-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-6">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="Pa-P2Wp15x4nhS5DZ722-6" vertex="1">
           <mxGeometry x="20" y="60" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-15" target="Pa-P2Wp15x4nhS5DZ722-22">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-15" target="Pa-P2Wp15x4nhS5DZ722-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-15" value="Deshabilitada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-6">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-15" value="Deshabilitada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-6" vertex="1">
           <mxGeometry x="550" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-13" target="Pa-P2Wp15x4nhS5DZ722-15">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-13" target="Pa-P2Wp15x4nhS5DZ722-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="105" as="targetPoint" />
             <Array as="points">
@@ -33,126 +33,114 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-17" value="desabilitar/ notificar a inscriptos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-14">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-17" value="desabilitar/ notificar a inscriptos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pa-P2Wp15x4nhS5DZ722-14" vertex="1" connectable="0">
           <mxGeometry x="0.1474" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-19" target="Pa-P2Wp15x4nhS5DZ722-22">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-19" target="Pa-P2Wp15x4nhS5DZ722-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-19" value="No modificable" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-6">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-19" value="No modificable" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-6" vertex="1">
           <mxGeometry x="140" y="210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-13" target="Pa-P2Wp15x4nhS5DZ722-19">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-6" source="Pa-P2Wp15x4nhS5DZ722-13" target="Pa-P2Wp15x4nhS5DZ722-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-21" value="Generar acta de cursado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-18">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-21" value="Generar acta de cursado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pa-P2Wp15x4nhS5DZ722-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2545" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-6">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" parent="Pa-P2Wp15x4nhS5DZ722-6" vertex="1">
           <mxGeometry x="595" y="220" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-25" value="Inscripción a cursada" style="swimlane;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="690" height="310" as="geometry" />
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-25" value="Inscripción a cursada" style="swimlane;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="60" y="420" width="710" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-29" target="Pa-P2Wp15x4nhS5DZ722-35">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-29" target="Pa-P2Wp15x4nhS5DZ722-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
           <mxGeometry x="20" y="60" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-41" target="Pa-P2Wp15x4nhS5DZ722-38">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-41" target="Pa-P2Wp15x4nhS5DZ722-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-35" value="controlando cupo&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-35" value="Recibida" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
           <mxGeometry x="80" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
           <mxGeometry x="610" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-39" target="Pa-P2Wp15x4nhS5DZ722-42">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-35" target="Pa-P2Wp15x4nhS5DZ722-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="160" />
-              <mxPoint x="10" y="160" />
-              <mxPoint x="10" y="230" />
+              <mxPoint x="140" y="160" />
+              <mxPoint x="205" y="160" />
             </Array>
+            <mxPoint x="270" y="125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-45" value="[cupo&amp;lt;=inscriptos]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-43">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-45" value="[cupo&amp;lt;inscriptos]/control=0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pa-P2Wp15x4nhS5DZ722-43" vertex="1" connectable="0">
           <mxGeometry x="-0.7217" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="260" y="100" width="20" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-35" target="Pa-P2Wp15x4nhS5DZ722-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="85" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-41" value="Anulada&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-41" value="Anulada&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
           <mxGeometry x="360" y="32.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-39" target="Pa-P2Wp15x4nhS5DZ722-41">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-35" target="Pa-P2Wp15x4nhS5DZ722-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="50" />
+              <mxPoint x="415" y="85" />
+            </Array>
+            <mxPoint x="270" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-44" value="[cupo=&amp;gt;inscriptos]/ informar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pa-P2Wp15x4nhS5DZ722-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.4476" relative="1" as="geometry">
+            <mxPoint x="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-42" target="Pa-P2Wp15x4nhS5DZ722-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324" y="237.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="635" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-44" value="[cupo&amp;gt;inscriptos]/ informar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-40">
-          <mxGeometry x="-0.4476" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-42" target="Pa-P2Wp15x4nhS5DZ722-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="238" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-87" value="Control correlativa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-48">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-87" value="ControlOk[control=3]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pa-P2Wp15x4nhS5DZ722-48" vertex="1" connectable="0">
           <mxGeometry x="-0.1048" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-58" target="Pa-P2Wp15x4nhS5DZ722-56">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-42" target="Pa-P2Wp15x4nhS5DZ722-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="230" />
-              <mxPoint x="215" y="200" />
-              <mxPoint x="370" y="200" />
+              <mxPoint x="370" y="205" />
               <mxPoint x="370" y="145" />
             </Array>
+            <mxPoint x="334" y="225" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-63" value="[no aprobada]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-49">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-63" value="ControlNoOk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Pa-P2Wp15x4nhS5DZ722-49" vertex="1" connectable="0">
           <mxGeometry x="-0.322" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-42" value="Pendiente 1° control" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="30" y="210" width="70" height="40" as="geometry" />
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-42" value="Pendiente" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
+          <mxGeometry x="150" y="195" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-46" value="Pendiente 2° control" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="290" y="242.5" width="65" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-47" value="Pendiente 3° control" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="540" y="260" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-53" target="Pa-P2Wp15x4nhS5DZ722-38">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-53" target="Pa-P2Wp15x4nhS5DZ722-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="625" y="140" />
@@ -160,105 +148,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-53" value="Aceptada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-53" value="Aceptada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
           <mxGeometry x="580" y="155" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-47" target="Pa-P2Wp15x4nhS5DZ722-83">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="250" />
-              <mxPoint x="570" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-86" value="Control correlativa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-52">
-          <mxGeometry x="-0.2242" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-56" target="Pa-P2Wp15x4nhS5DZ722-38">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-56" target="Pa-P2Wp15x4nhS5DZ722-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-56" value="No aceptada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
+        <mxCell id="Pa-P2Wp15x4nhS5DZ722-56" value="No aceptada" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="Pa-P2Wp15x4nhS5DZ722-25" vertex="1">
           <mxGeometry x="420" y="125" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-58" target="Pa-P2Wp15x4nhS5DZ722-46">
+        <mxCell id="k4K_gtjBeFc9I-z7aMz7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-42" target="Pa-P2Wp15x4nhS5DZ722-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="270" />
-              <mxPoint x="270" y="270" />
-              <mxPoint x="270" y="272" />
+              <mxPoint x="60" y="230" />
+              <mxPoint x="20" y="230" />
+              <mxPoint x="20" y="270" />
+              <mxPoint x="143" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-64" value="[aprobada]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-61">
-          <mxGeometry x="0.0128" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="k4K_gtjBeFc9I-z7aMz7-8" value="ControlOK[control&amp;lt;3]/control+1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k4K_gtjBeFc9I-z7aMz7-7">
+          <mxGeometry x="0.0113" y="-1" relative="1" as="geometry">
+            <mxPoint x="37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-58" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="205" y="217.5" width="20" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="452" y="165" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="200" />
-              <mxPoint x="452" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-78" value="[no aprobada]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-76">
-          <mxGeometry x="-0.2686" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-73" target="Pa-P2Wp15x4nhS5DZ722-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-79" value="[aprobada]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-77">
-          <mxGeometry x="-0.0607" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-73" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="440" y="235.00000000000003" width="20" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-83" target="Pa-P2Wp15x4nhS5DZ722-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-89" value="[no aprobada]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-88">
-          <mxGeometry x="-0.0806" y="-10" relative="1" as="geometry">
-            <mxPoint x="-10" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.842;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" source="Pa-P2Wp15x4nhS5DZ722-83" target="Pa-P2Wp15x4nhS5DZ722-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-92" value="[aprobada]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-91">
-          <mxGeometry x="-0.331" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-83" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="Pa-P2Wp15x4nhS5DZ722-25">
-          <mxGeometry x="560" y="210" width="20" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Pa-P2Wp15x4nhS5DZ722-25" target="Pa-P2Wp15x4nhS5DZ722-73" source="Pa-P2Wp15x4nhS5DZ722-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="259.97" as="sourcePoint" />
-            <mxPoint x="485" y="-122.05999999999997" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pa-P2Wp15x4nhS5DZ722-85" value="Control&lt;br&gt;correlativa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pa-P2Wp15x4nhS5DZ722-66">
-          <mxGeometry x="-0.3598" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="k4K_gtjBeFc9I-z7aMz7-5" value="Pendiente" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="140" y="820" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
